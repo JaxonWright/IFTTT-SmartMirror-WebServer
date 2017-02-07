@@ -3,6 +3,7 @@ A simple python webserver for use with my Smart Mirror and IFTTT commands over t
 
 ## Install Dependencies
 Run `sudo apt-get install cec-utils` to handle turning on and off the mirror
+
 Run `sudo apt-get install python3-flask`
 
 ## Run server
